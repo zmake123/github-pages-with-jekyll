@@ -1,2 +1,2 @@
-title: This is new awesome title
-description: This is a new description
+title: "Welcome to my Blog"
+date: "2012-12-29"
